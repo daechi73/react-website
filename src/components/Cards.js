@@ -1,7 +1,6 @@
 import React from "react";
 import CardItem from "./CardItem";
 import "./Cards.css";
-import image from "../images/img-9.jpg";
 
 function Cards() {
   return (
