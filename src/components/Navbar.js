@@ -25,7 +25,11 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+          <Link
+            to="/react-website"
+            className="navbar-logo"
+            onClick={closeMobileMenu}
+          >
             TRV <i className="fab fa-typo3"></i>
           </Link>
           <div className="menu-icon" onClick={handleClick}>
@@ -43,7 +47,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <Link
-                to="/services"
+                to="/react-website/services"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
@@ -52,7 +56,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <Link
-                to="/products"
+                to="/react-website/products"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
@@ -61,7 +65,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <Link
-                to="/sign-up"
+                to="/react-website/sign-up"
                 className="nav-links-mobile"
                 onClick={closeMobileMenu}
               >
