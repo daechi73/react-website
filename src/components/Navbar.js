@@ -65,7 +65,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <Link
-                to="/react-website/sign-up"
+                to="/react-website/sign-Up"
                 className="nav-links-mobile"
                 onClick={closeMobileMenu}
               >
