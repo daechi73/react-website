@@ -16,7 +16,7 @@ Navbar:
 - Products page link
 - signUp Button that links to signup page
 
-  4 pages:
+4 pages:
 
 - Home: Hero section with destination cards
 - Services page
