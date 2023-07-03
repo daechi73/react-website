@@ -22,6 +22,7 @@ Navbar:
 - Services page
 - Products page
 - signUp page
+
 - signup button turns into a hamburger menu when browser is 960px or smaller
   - when clicked, 100% pageview vertical navbar appears
 
