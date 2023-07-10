@@ -13,13 +13,13 @@ function Cards() {
               src={require("../images/img-9.jpg")}
               text="explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
-              path="/services"
+              path="/react-website/services"
             />
             <CardItem
               src={require("../images/img-2.jpg")}
               text="Travel through the Islands of Bali in a Private Cruise"
               label="Luxury"
-              path="/services"
+              path="/react-website/services"
             />
           </ul>
           <ul className="cards__items">
@@ -27,19 +27,19 @@ function Cards() {
               src={require("../images/img-4.jpg")}
               text="explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
-              path="/services"
+              path="/react-website/services"
             />
             <CardItem
               src={require("../images/img-5.jpg")}
               text="Travel through the Islands of Bali in a Private Cruise"
               label="Luxury"
-              path="/services"
+              path="/react-website/services"
             />
             <CardItem
               src={require("../images/img-6.jpg")}
               text="es"
               label="Adventure"
-              path="/services"
+              path="/react-website/services"
             />
           </ul>
         </div>
